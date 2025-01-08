@@ -1,0 +1,7 @@
+body {
+    background-color: #eaeaea !important;
+}
+
+#app-bar-with-responsive-menu {
+    background-image: linear-gradient(100deg, rgb(80, 161, 173) 20%, #98d1bb 50%, #474796 80%) !important;
+}
