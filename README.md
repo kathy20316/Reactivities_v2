@@ -2,7 +2,8 @@
 
 **Overview**
 
-Activities Manager is a web application that allows users to create, view, edit, and delete activities. Each activity includes details such as the name, timestamp, location, category, and an associated image.
+Activities Manager is a web-based application that allows users to manage their activities efficiently. 
+Users can create, view, edit, and delete activities while categorizing them based on type and location.
 
 ****Features****
 
