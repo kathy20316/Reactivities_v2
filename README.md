@@ -5,6 +5,11 @@
 Activities Manager is a web-based application that allows users to manage their activities efficiently. 
 Users can create, view, edit, and delete activities while categorizing them based on type and location.
 
+**Demo:**
+
+<img width="500" alt="Activities Manager" src="https://github.com/user-attachments/assets/fd2c1679-acae-44e8-a67b-c5c1c28218cd" />
+
+
 ****Features****
 
 ✅ Create Activities: Add new activities with relevant details. 
